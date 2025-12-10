@@ -164,6 +164,8 @@ The project aims to:
 Developed by: Aryan Ambre
 📧 aryanambre77@gmail.com
 
+---
+
 ## 🏁 Conclusion
 
 The Task Management System helps users stay organized, manage priorities, and complete work efficiently.
