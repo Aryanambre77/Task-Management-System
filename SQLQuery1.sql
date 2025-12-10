@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT ('Tasks', RESEED, 0);
