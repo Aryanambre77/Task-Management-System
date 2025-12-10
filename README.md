@@ -147,6 +147,7 @@ The project aims to:
 
 9. **Access the app at http://localhost:<port>/**
 
+---
 
 ## 🔮 Future Enhancements
 
